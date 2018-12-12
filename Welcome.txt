@@ -1,3 +1,4 @@
 Print(“Welcome;”)
 Print(“Hello lesson4;”)
-Print(“;;@the end”)
+Print(“Hi Lesson5. Conflict reset;”)
+Print(“Return back after changes;”)
