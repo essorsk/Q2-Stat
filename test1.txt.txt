@@ -1,2 +1,0 @@
-Print(“Hi fi”)
-Print(“Hello there”)
